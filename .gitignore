@@ -41,3 +41,5 @@ lang/zh-Han*.json
 
 # netlify deploy
 deploy/
+
+media/*
